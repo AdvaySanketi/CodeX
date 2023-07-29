@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/main/run.js"],"names":["repl","Repl","run"],"mappings":";;AAAA;;AAEA,CAAC,YAAM;AACH,QAAIA,OAAO,IAAIC,UAAJ,EAAX;;AAEAD,SAAKE,GAAL;AACH,CAJD","file":"run.js","sourcesContent":["import { Repl } from './repl'\n\n(() => {\n    let repl = new Repl();\n\n    repl.run();\n})();"]}
